@@ -1,8 +1,8 @@
 ---
-title: Hello, Valaxy!
+title: 解决 Firefox 全屏播放时会短暂黑屏的问题
 date: 2025-06-01
 updated: 2025-06-01
-categories: 解决 Firefox 全屏播放时会短暂黑屏的问题
+categories: 小问题
 tags:
   - Firefox
   - 笔记
