@@ -8,7 +8,7 @@ export default defineSiteConfig({
   subtitle: '',
   author: {
     name: '风中尘',
-    avatar: "favicon.svg",
+    avatar: "https://avatars.githubusercontent.com/u/49940925?s=96&v=4",
     status: {
       emoji: ''
     },
