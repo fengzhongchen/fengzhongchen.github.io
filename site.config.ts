@@ -18,32 +18,26 @@ export default defineSiteConfig({
     },
     {
       name: 'GitHub',
-      link: 'https://github.com/YunYouJun',
+      link: 'https://github.com/fengzhongchen',
       icon: 'i-ri-github-line',
       color: '#6e5494',
     },
     {
       name: '哔哩哔哩',
-      link: 'https://space.bilibili.com/1579790',
+      link: 'https://space.bilibili.com/73657694',
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
     {
       name: 'E-Mail',
-      link: 'mailto:me@yunyoujun.cn',
+      link: 'mailto:pinganyan@outlook.com',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
-    },
-    {
-      name: 'Travelling',
-      link: 'https://www.travellings.cn/go.html',
-      icon: 'i-ri-train-line',
-      color: 'var(--va-c-text)',
     },
   ],
 
   search: {
-    enable: false,
+    enable: true,
   },
 
   sponsor: {
@@ -52,19 +46,19 @@ export default defineSiteConfig({
     methods: [
       {
         name: '支付宝',
-        url: 'https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg',
+        url: '', // 支付宝收款码图片链接
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: 'QQ 支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png',
+        url: '', // QQ 收款码图片链接
         color: '#12B7F5',
         icon: 'i-ri-qq-line',
       },
       {
         name: '微信支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg',
+        url: '', // 微信收款码图片链接
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
