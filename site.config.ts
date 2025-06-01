@@ -2,13 +2,13 @@ import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
   url: 'https://fengzhongchen.github.io',
-  favicon: "favicon.png",
+  favicon: "favicon.svg",
   lang: 'zh-CN',
   title: '风中尘的博客',
   subtitle: '',
   author: {
     name: '风中尘',
-    avatar: "favicon.png",
+    avatar: "favicon.svg",
     status: {
       emoji: ''
     },
