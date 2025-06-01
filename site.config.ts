@@ -4,6 +4,7 @@ export default defineSiteConfig({
   url: 'https://fengzhongchen.github.io',
   lang: 'zh-CN',
   title: '风中尘的博客',
+  subtitle: '',
   author: {
     name: '风中尘',
   },
