@@ -25,7 +25,7 @@ tags:
 ```
 然后，确保它位于部署步骤 **之前**，也就是紧接在下面这行 **之前**：
 ```yaml
-- name: 🪤 Deploy to GitHub Pages
-  uses: peaceiris/actions-gh-pages@v3
+  - name: 🪤 Deploy to GitHub Pages
+    uses: peaceiris/actions-gh-pages@v3
 ```
 这样，每次 GitHub 自动部署时，`CNAME` 文件都会被正确包含在发布内容中，自定义域名也就不会再失效了。
