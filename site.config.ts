@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://fengzhongchen.github.io',
+  url: 'https://fengzhongchen.top',
   favicon: "favicon.svg",
   lang: 'zh-CN',
   title: '风中尘的博客',
