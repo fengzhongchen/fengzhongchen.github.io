@@ -30,6 +30,7 @@ declare module 'vue-router/auto-routes' {
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
     '/posts/解决 Firefox 全屏播放时会短暂黑屏的问题': RouteRecordInfo<'/posts/解决 Firefox 全屏播放时会短暂黑屏的问题', '/posts/解决 Firefox 全屏播放时会短暂黑屏的问题', Record<never, never>, Record<never, never>>,
+    '/posts/如何让其他人访问你的博客': RouteRecordInfo<'/posts/如何让其他人访问你的博客', '/posts/如何让其他人访问你的博客', Record<never, never>, Record<never, never>>,
     '/posts/hello-valaxy': RouteRecordInfo<'/posts/hello-valaxy', '/posts/hello-valaxy', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
