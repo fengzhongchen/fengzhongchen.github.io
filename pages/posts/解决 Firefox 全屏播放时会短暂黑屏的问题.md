@@ -7,6 +7,7 @@ categories: 小问题
 tags:
   - Firefox
   - 笔记
+  - 黑屏
 ---
 
 # 解决 Firefox 全屏播放时会短暂黑屏的问题
