@@ -36,7 +36,7 @@ export default defineValaxyConfig<UserThemeConfig>({
     ],
 
     footer: {
-      since: 2016,
+      since: 2025,
       beian: {
         enable: false,
         icp: '', // 备案号
