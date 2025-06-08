@@ -1,0 +1,73 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "风中尘的博客",
+  "home_page_url": "https://fengzhongchen.top/",
+  "feed_url": "https://fengzhongchen.top/feed.json",
+  "description": "记录我遇到的问题和解决方案，以及一些有趣的事。",
+  "icon": "https://avatars.githubusercontent.com/u/49940925?s=96&v=4",
+  "favicon": "https://fengzhongchen.top/favicon.svg",
+  "authors": [
+    {
+      "name": "风中尘",
+      "url": "https://valaxy.site"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://fengzhongchen.top/posts/Valaxy博客部署指南：GitHub Pages绑定域名+CDN加速全流程",
+      "url": "https://fengzhongchen.top/posts/Valaxy博客部署指南：GitHub Pages绑定域名+CDN加速全流程",
+      "title": "Valaxy博客部署指南：GitHub Pages绑定域名+CDN加速全流程",
+      "content_html": "<h2>Valaxy博客部署指南</h2>\n<p>如果你已经使用 Valaxy 创建好了博客，那么接下来最重要的一步就是让其他人能够访问它。这篇文章将带你完成博客的部署、绑定域名，以及通过 CDN 加速访问的完整流程。</p>\n<br/><p>访问 <a href=\"https://fengzhongchen.top/posts/Valaxy博客部署指南：GitHub Pages绑定域名+CDN加速全流程\" target=\"_blank\">https://fengzhongchen.top/posts/Valaxy博客部署指南：GitHub Pages绑定域名+CDN加速全流程</a> 阅读全文。</p>",
+      "date_published": "2025-06-08T15:02:27.644Z",
+      "date_modified": "2025-06-01T20:03:27.000Z",
+      "authors": [
+        {
+          "name": "风中尘",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://fengzhongchen.top/posts/Github Pages自定义域名失效的解决步骤",
+      "url": "https://fengzhongchen.top/posts/Github Pages自定义域名失效的解决步骤",
+      "title": "Github Pages自定义域名失效的解决步骤",
+      "content_html": "<h2>Github Pages自定义域名失效的解决步骤</h2>\n<p>博主发现将更新的博客推送到GitHub之后会出现自定义域名失效的问题。经过搜索博主参考了这篇文章：[解决Github Pages自定义域名失</p>\n<br/><p>访问 <a href=\"https://fengzhongchen.top/posts/Github Pages自定义域名失效的解决步骤\" target=\"_blank\">https://fengzhongchen.top/posts/Github Pages自定义域名失效的解决步骤</a> 阅读全文。</p>",
+      "date_published": "2025-06-08T15:02:27.643Z",
+      "date_modified": "2025-06-02T20:50:47.000Z",
+      "authors": [
+        {
+          "name": "风中尘",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://fengzhongchen.top/posts/Firefox 全屏播放视频出现短暂黑屏的解决方法",
+      "url": "https://fengzhongchen.top/posts/Firefox 全屏播放视频出现短暂黑屏的解决方法",
+      "title": "Firefox 全屏播放视频出现短暂黑屏的解决方法",
+      "content_html": "<h1>解决 Firefox 全屏播放时会短暂黑屏的问题</h1>\n<p>如果你在使用Firefox播放视频并且切换到全屏模式时会出现短暂的黑屏，那么可以通过如下办法解决。</p>\n<hr>\n<h2>🛠 解决方法</h2>\n<h3></h3>\n<br/><p>访问 <a href=\"https://fengzhongchen.top/posts/Firefox 全屏播放视频出现短暂黑屏的解决方法\" target=\"_blank\">https://fengzhongchen.top/posts/Firefox 全屏播放视频出现短暂黑屏的解决方法</a> 阅读全文。</p>",
+      "date_published": "2025-06-01T00:00:00.000Z",
+      "date_modified": "2025-06-01T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "风中尘",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://fengzhongchen.top/posts/hello-valaxy",
+      "url": "https://fengzhongchen.top/posts/hello-valaxy",
+      "title": "Hello, Valaxy!",
+      "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>构建本博客过程中参考的资料</h2>\n<p>以下是我在搭</p>\n<br/><p>访问 <a href=\"https://fengzhongchen.top/posts/hello-valaxy\" target=\"_blank\">https://fengzhongchen.top/posts/hello-valaxy</a> 阅读全文。</p>",
+      "date_published": "2022-04-01T00:00:00.000Z",
+      "date_modified": "2022-04-01T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "风中尘",
+          "url": "https://valaxy.site"
+        }
+      ]
+    }
+  ]
+}
