@@ -4,7 +4,7 @@ export default defineSiteConfig({
   url: 'https://fengzhongchen.top',
   favicon: "favicon.svg",
   lang: 'zh-CN',
-  title: '风中尘的博客',
+  title: '风中尘的博客 | 问题解决与技术思考',
   subtitle: '',
   author: {
     name: '风中尘',
