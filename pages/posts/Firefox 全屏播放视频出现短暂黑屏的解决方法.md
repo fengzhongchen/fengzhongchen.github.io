@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Firefox 全屏播放视频出现短暂黑屏的解决方法
+description: 如果你在 Firefox 中播放视频时遇到短暂黑屏问题，这篇文章将帮助你找出原因并提供解决方案，恢复流畅的视频体验。
 date: 2025-06-01
 updated: 2025-06-01
 categories: 小问题

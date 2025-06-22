@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Valaxy博客部署指南：GitHub Pages绑定域名+CDN加速全流程
+description: 想要使用 GitHub Pages 部署 Valaxy 博客并加速访问？本篇文章为你详细介绍了从域名绑定到 CDN 加速的整个流程，让你的博客加载更快，体验更佳。
 date: 2025-06-01 20:03:27
 categories: Valaxy 笔记
 tags:

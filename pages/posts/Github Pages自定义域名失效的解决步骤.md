@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Github Pages自定义域名失效的解决步骤
+description: 遇到 GitHub Pages 自定义域名失效问题？这篇文章将为你提供详细的解决步骤，帮你轻松恢复网站正常运行。
 date: 2025-06-02 20:50:47
 categories: Valaxy 笔记
 tags:
